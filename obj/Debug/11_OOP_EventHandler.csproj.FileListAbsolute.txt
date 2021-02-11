@@ -1,0 +1,10 @@
+C:\Users\ercan\source\InfoTech\InfoTech\11_OOP_EventHandler\obj\Debug\11_OOP_EventHandler.csprojAssemblyReference.cache
+C:\Users\ercan\source\InfoTech\InfoTech\11_OOP_EventHandler\obj\Debug\_11_OOP_EventHandler.Form1.resources
+C:\Users\ercan\source\InfoTech\InfoTech\11_OOP_EventHandler\obj\Debug\_11_OOP_EventHandler.Properties.Resources.resources
+C:\Users\ercan\source\InfoTech\InfoTech\11_OOP_EventHandler\obj\Debug\11_OOP_EventHandler.csproj.GenerateResource.cache
+C:\Users\ercan\source\InfoTech\InfoTech\11_OOP_EventHandler\obj\Debug\11_OOP_EventHandler.csproj.CoreCompileInputs.cache
+C:\Users\ercan\source\InfoTech\InfoTech\11_OOP_EventHandler\bin\Debug\11_OOP_EventHandler.exe.config
+C:\Users\ercan\source\InfoTech\InfoTech\11_OOP_EventHandler\bin\Debug\11_OOP_EventHandler.exe
+C:\Users\ercan\source\InfoTech\InfoTech\11_OOP_EventHandler\bin\Debug\11_OOP_EventHandler.pdb
+C:\Users\ercan\source\InfoTech\InfoTech\11_OOP_EventHandler\obj\Debug\11_OOP_EventHandler.exe
+C:\Users\ercan\source\InfoTech\InfoTech\11_OOP_EventHandler\obj\Debug\11_OOP_EventHandler.pdb
